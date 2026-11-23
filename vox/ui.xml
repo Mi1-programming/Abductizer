@@ -1,0 +1,8 @@
+<prefab version="1.3.0">
+	<group name="ui" pos="2.7 0.2 0.0" rot="0.0 0.0 0.0">
+		<voxbox name="shape" tags="unbreakable" pos="0.0 0.0 0.0" collide="false" size="1 4 1">
+			<screen name="uiTool" pos="0.05 0.2 0.101" rot="0 0 0" size="0.1 0.4" bulge="0.0" resolution="240 960" script="MOD/scripts/previewScreen.lua" enabled="true" interactive="false" fxraster="0"/>
+		</voxbox>
+	</group>
+</prefab>
+
